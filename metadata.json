@@ -1,0 +1,8 @@
+{
+  "name": "Wajid Karim | AI Engineer Portfolio",
+  "description": "Portfolio of Wajid Karim — AI Engineer specializing in multi-agent systems, LangGraph, production RAG pipelines, pgvector, and LLM orchestration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
